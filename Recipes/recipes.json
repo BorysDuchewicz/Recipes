@@ -1,0 +1,71 @@
+[
+  {
+    "name": "cos",
+    "day": 12,
+    "month": 5,
+    "year": 2010,
+	 "category": "Dinner",
+    "components":
+    [
+      {
+        "name": "jeden",
+        "calories": 12,
+        "weight": 0.1,
+        "price": 25.5
+      },
+      {
+        "name": "dwa",
+        "calories": 50,
+        "weight": 0.5,
+        "price": 25.5
+      }
+    ]
+  },
+  {
+    "name": "cos cos",
+    "day": 12,
+    "month": 5,
+    "year": 2010,
+    "category": "Supper",
+    "components": [
+      {
+        "name": "jeden dwa",
+        "calories": 56,
+        "weight": 0.3,
+        "price": 20.5
+
+      },
+      {
+        "name": "dwa dwa",
+        "calories": 78,
+        "weight": 0.15,
+        "price": 35.5
+      }
+
+    ]
+  },
+  {
+    "name": "Jajecznica",
+    "day": 12,
+    "month": 5,
+    "year": 2010,
+    "category": "Breakfast",
+    "components": [
+      {
+        "name": "Jajka",
+        "calories": 15,
+        "weight": 0.4,
+        "price": 20.5
+
+      },
+      {
+        "name": "Czosnek",
+        "calories": 10,
+        "weight": 0.1,
+        "price": 35.5
+      }
+
+    ]
+  }
+
+]

@@ -1,0 +1,21 @@
+{
+   "Cena": 11.475,
+   "Data opublikowania przepisu": "12-5-2010",
+   "Kalorie": 285.0,
+   "Kategoria": "Supper",
+   "Nazwa": "cos cos",
+   "Skladniki": [
+      {
+         "Cena": 20.5,
+         "Kalorie": 56,
+         "Nazwa": "jeden dwa",
+         "Waga": 0.3
+      },
+      {
+         "Cena": 35.5,
+         "Kalorie": 78,
+         "Nazwa": "dwa dwa",
+         "Waga": 0.15
+      }
+   ]
+}
